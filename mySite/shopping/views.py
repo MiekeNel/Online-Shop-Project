@@ -10,7 +10,7 @@ from django.contrib import messages
 def index(request):
     latest_question_list = Products.objects.order_by('-price')[::]
     context = {'latest_question_list': latest_question_list}
-    return render(request, "shopping/shop_page.html", context)
+    return render(request, "shopping/index.html", context)
 
 @login_required
 def detail(request, question_id):
