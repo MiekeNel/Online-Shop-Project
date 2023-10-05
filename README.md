@@ -11,7 +11,7 @@ The website displays the online stores available items with images and prices. I
 
 ## Installation Steps:
 1. Clone the respository to your local machine:
-   *git clone https://github.com/yourusername/your-project.git*
+   *git clone https://github.com/miekenel/online-shop-project.git*
    
 2. Change to the project directory:
    *cd your-project*
@@ -39,17 +39,21 @@ The website displays the online stores available items with images and prices. I
 ## User Guide
 
 * Brows the website to view available products.
+  
 ![image](https://github.com/MiekeNel/Online-Shop-Project/assets/98015730/046b9a15-bf9a-4730-bc76-829d87766503)
 
 * Click on the "View Details" button of the product you are interested in.
 * If you are logged out, you will be redirected to the login page where you can login. If you are not registered as a superuser, please revert back to step **7** of the Installation Steps.
+  
 ![image](https://github.com/MiekeNel/Online-Shop-Project/assets/98015730/262117a2-d434-4b5e-bf79-8ddaa372e496)
 
 * After loging in you will be able to select the item and subsequently the store at which you would like to reserve the item for pick-up.
 * After selecting the desired store, click on the "Reserve Mine!" button to reserve your item in the selected store.
+  
 ![image](https://github.com/MiekeNel/Online-Shop-Project/assets/98015730/928c6ca7-aa59-4774-aa3f-cf7c525d4beb)
 
 * Once reserved, there will be a confirmation message as below, and a "Continue Shopping" button which will take you back to the main page of the shopping site.
+  
 ![image](https://github.com/MiekeNel/Online-Shop-Project/assets/98015730/2d05f203-da1f-43f3-ae81-85739ed47539)
 
 ## Credits
