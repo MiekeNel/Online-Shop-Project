@@ -9,7 +9,7 @@ The website displays the online stores available items with images and prices. I
 2. User Guide
 3. Credits
 
-## Installation Steps:
+## 1. Installation Steps:
 1. Clone the respository to your local machine:
    *git clone https://github.com/miekenel/online-shop-project.git*
    
@@ -36,7 +36,7 @@ The website displays the online stores available items with images and prices. I
 
 9. Open your web browser and go to "http://localhost:8000" to go to the website.
 
-## User Guide
+## 2. User Guide
 
 * Brows the website to view available products.
   
@@ -56,5 +56,5 @@ The website displays the online stores available items with images and prices. I
   
 ![image](https://github.com/MiekeNel/Online-Shop-Project/assets/98015730/2d05f203-da1f-43f3-ae81-85739ed47539)
 
-## Credits
+## 3. Credits
 Author: Mieke Nel, https://github.com/MiekeNel
